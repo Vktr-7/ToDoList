@@ -1,0 +1,5 @@
+The "To Do List" project (or "Task List") is an application or system that helps users organize, track, and manage their tasks and activities. 
+The main goal of such a project is to simplify the planning and execution of daily tasks in order to increase productivity and improve users' quality of life.
+Users can start working with the "To Do List" project by following these steps: The user can add their first task by clicking the "Add Task" button and entering a description. Once the task is completed, the user can mark it as done, which will help track progress. Regularly reviewing and updating the task list will help the user stay organized.
+Where can users seek help with the project? For those unfamiliar with GitHub, the platform does not allow users to send direct messages to other users. Instead, you can find our contact information in our profiles or mention us in discussions to get in touch with us.
+The "To Do List" project was handled by Viktor Chybykov (Frontend) and Igor Kirillin (Designer). Additionally, Albert Valeryevich participated indirectly as a mentor, while Kristina Efremova served as the project manager.
